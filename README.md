@@ -1,6 +1,6 @@
 # flutter_news
 
-A new Flutter project.
+A News Flutter app using the free API from Rapid API with Dio package for Http requests and Flutter Riverpod as state management. GetX is used for routing and webview_flutter package is used for viewing the news article in a web view. 
 
 ## Getting Started
 
